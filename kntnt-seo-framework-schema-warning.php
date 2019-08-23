@@ -12,6 +12,6 @@
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  */
 
-defined('ABSPATH') || die;
+defined( 'ABSPATH' ) || die;
 
-add_filter('the_seo_framework_ldjson_plugin_detected', '__return_true');
+add_filter( 'the_seo_framework_ldjson_plugin_detected', '__return_true' );
