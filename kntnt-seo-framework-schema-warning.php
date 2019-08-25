@@ -2,7 +2,7 @@
 
 /**
  * @wordpress-plugin
- * Plugin Name:       SEO Framework Schema.org Warning
+ * Plugin Name:       Kntnt SEO Framework Schema.org Warning
  * Plugin URI:        https://www.kntnt.com/
  * Description:       Tells SEO Framework that another plugin provides Schema.org.
  * Version:           1.0.0
